@@ -1,0 +1,1 @@
+{"name": "terrorform4-1", "description": "terror! This django application was built with Crowdbotics www.crowdbotics.com", "repository": "https://github.com/driverdan/dancrowdboticscom-dan-50", "keywords": ["web", "django"], "env": {"DEBUG_COLLECTSTATIC": "1"}, "addons": ["heroku-postgresql:hobby-dev", "sendgrid:starter"], "scripts": {"postdeploy": "./postdeploy.sh"}}
